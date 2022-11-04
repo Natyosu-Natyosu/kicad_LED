@@ -1,0 +1,2199 @@
+522895727806171
+BAYASHI_Footprint-library
+0.28-inch-LED-digital-DC-voltmeter
+
+
+0
+3
+3
+BAYASHI_Footprint-library
+0.36-inch-LED-digital-DC-voltmeter
+
+
+0
+0
+0
+BAYASHI_Footprint-library
+2MS3-T1-B4-M2-Q-E
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+BAYASHI_Footprint-library
+2N7002NXAKR
+N-Channel_MOSFET(SMD)
+N-Channel_MOSFET(SMD)
+0
+3
+3
+BAYASHI_Footprint-library
+7segmentLED
+
+
+0
+10
+10
+BAYASHI_Footprint-library
+74HC30D
+8-input NAND gate
+logic IC
+0
+14
+14
+BAYASHI_Footprint-library
+74HC165D
+8bit Shift Register
+8bit Shift Register
+0
+16
+16
+BAYASHI_Footprint-library
+74HC541
+8input 3state buffer
+buffer
+0
+20
+20
+BAYASHI_Footprint-library
+74HC595nsr
+
+
+0
+0
+0
+BAYASHI_Footprint-library
+74HC4066D
+
+
+0
+14
+14
+BAYASHI_Footprint-library
+74HCxx_14Pin
+IC_Socket_14Pin
+IC_Socket_14Pin
+0
+14
+14
+BAYASHI_Footprint-library
+74HCxx_16Pin
+IC_Socket_16Pin
+IC_Socket_16Pin
+0
+16
+16
+BAYASHI_Footprint-library
+78L05
+Regulator for AD
+Regulator for AD
+0
+4
+4
+BAYASHI_Footprint-library
+178M05F
+Regulator for SMD
+Regulator for SMD
+0
+3
+3
+BAYASHI_Footprint-library
+3362P_1
+3362P
+Resistor
+0
+3
+3
+BAYASHI_Footprint-library
+3549
+Horizontal Mini Blade Fuse Clip
+Fuse Clip
+0
+4
+2
+BAYASHI_Footprint-library
+7805_Horizontal
+Regulator Horizontal(THD)
+Regulator Horizontal(THD)
+0
+3
+3
+BAYASHI_Footprint-library
+7805_Verticzl
+Regulator Vertical(THD)
+Regulator Vertical(THD)
+0
+3
+3
+BAYASHI_Footprint-library
+50101BS
+BIG 7 segments LED
+
+0
+10
+10
+BAYASHI_Footprint-library
+A-2308SR
+16segment LED
+
+0
+20
+20
+BAYASHI_Footprint-library
+A6RV-161RF-R6
+Dial Switch for Changing Address
+Dial Switch
+0
+5
+5
+BAYASHI_Footprint-library
+A3921
+LP 28-pin TSSOP_2
+Integrated Circuit
+0
+29
+29
+BAYASHI_Footprint-library
+ACHS-7122-000E
+Current sensor
+Integrated Circuit
+0
+8
+8
+BAYASHI_Footprint-library
+ACS758
+current sensor
+Integrated Circuit
+0
+49
+3
+BAYASHI_Footprint-library
+ACS71020
+16 SOICW Package LA
+Integrated Circuit
+0
+16
+16
+BAYASHI_Footprint-library
+ADP3338
+5→3.3V 1A regulator
+
+0
+4
+3
+BAYASHI_Footprint-library
+AO3400A
+
+
+0
+0
+0
+BAYASHI_Footprint-library
+BNO055
+Gyro sensor module
+
+0
+10
+6
+BAYASHI_Footprint-library
+BP2593-50
+ROHM DCDC converter 5V1A max
+Power Supply
+0
+3
+3
+BAYASHI_Footprint-library
+Buzzer_15x7.5RM7.6
+Generic Buzzer, D15mm height 7.5mm with RM7.6mm
+buzzer
+0
+2
+2
+BAYASHI_Footprint-library
+CH340C
+USB serial interface
+FTDI
+0
+16
+16
+BAYASHI_Footprint-library
+CP_Radial_D12.5mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, , diameter=12.5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm  diameter 12.5mm Electrolytic Capacitor
+0
+2
+2
+BAYASHI_Footprint-library
+CR2032
+CR2032-batteryholder
+
+0
+2
+2
+BAYASHI_Footprint-library
+CR2032-SMD
+
+
+0
+3
+3
+BAYASHI_Footprint-library
+CR2032-THRU
+
+
+0
+3
+3
+BAYASHI_Footprint-library
+C_1206_3216Metric
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+BAYASHI_Footprint-library
+C_electrolytic_5×5.3_SMD
+Capasitor_electrolytic_5×5.3_SMD
+Capasitor_electrolytic_5×5.3_SMD
+0
+2
+2
+BAYASHI_Footprint-library
+C_electrolytic_10×10.5_SMD
+Capasitor_electrolytic_10×10.5_SMD
+Capasitor_electrolytic_10×10.5_SMD
+0
+2
+2
+BAYASHI_Footprint-library
+C_electrolytic_THD
+Capacitor_electrolytic_THD
+Capacitor_electrolytic_THD
+0
+2
+2
+BAYASHI_Footprint-library
+C_seramic_SMD
+Capacitor SMD
+Capacitor SMD
+0
+2
+2
+BAYASHI_Footprint-library
+D-SMA,B,C-pad
+Compatible with all surface mount diode footprints
+SMD diode
+0
+1
+1
+BAYASHI_Footprint-library
+DC jack power 2.1
+
+
+0
+3
+3
+BAYASHI_Footprint-library
+DFR0299
+DFPlayer 
+micro MP3 player
+0
+16
+16
+BAYASHI_Footprint-library
+DFR0571SMD
+
+
+0
+4
+4
+BAYASHI_Footprint-library
+DFR0571THD
+
+
+0
+8
+4
+BAYASHI_Footprint-library
+DIP-6_W7.62mm_Socket_LongPads
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+6
+6
+BAYASHI_Footprint-library
+DIP-8_W7.62mm_Socket
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+8
+8
+BAYASHI_Footprint-library
+DIP-8_W7.62mm_Socket_LongPads
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+8
+8
+BAYASHI_Footprint-library
+DIP-8_W10.16mm
+8-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+8
+8
+BAYASHI_Footprint-library
+DIP-8_W10.16mm_LongPads
+8-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+8
+8
+BAYASHI_Footprint-library
+DIP-18_W7.62mm
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+18
+18
+BAYASHI_Footprint-library
+DIP-18_W7.62mm_LongPads
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+18
+18
+BAYASHI_Footprint-library
+DIP-18_W7.62mm_Socket
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+18
+18
+BAYASHI_Footprint-library
+DIP-18_W7.62mm_Socket_LongPads
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+18
+18
+BAYASHI_Footprint-library
+DIP16-2.54-20.32X5.84MM
+<b>Dual In Line Package</b>
+
+0
+16
+16
+BAYASHI_Footprint-library
+DIP_Switch_x04
+4x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x12.34mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch
+0
+8
+8
+BAYASHI_Footprint-library
+D_0201_0603Metric
+Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+diode
+0
+4
+2
+BAYASHI_Footprint-library
+D_DO-15_P5.08mm_Vertical_AnodeUp
+Diode, DO-15 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
+Diode DO-15 series Axial Vertical pin pitch 5.08mm  length 7.6mm diameter 3.6mm
+0
+2
+2
+BAYASHI_Footprint-library
+D_SMB
+Diode SMB (DO-214AA)
+Diode SMB (DO-214AA)
+0
+2
+2
+BAYASHI_Footprint-library
+D_SMB_Handsoldering
+Diode SMB (DO-214AA) Handsoldering
+Diode SMB (DO-214AA) Handsoldering
+0
+2
+2
+BAYASHI_Footprint-library
+D_SMB_Modified
+Diode SMB (DO-214AA) Modified (http://www.littelfuse.com/~/media/electronics/datasheets/sidactors/littelfuse_sidactor_battrax_positive_negative_modified_do_214_datasheet.pdf.pdf)
+Diode SMB (DO-214AA)
+0
+3
+3
+BAYASHI_Footprint-library
+ESP-WROOM-32
+Wifi-module
+
+0
+30
+30
+BAYASHI_Footprint-library
+ESP32-WROOM-32U
+WiFi & Bluetooth Microcomputer
+For Remote Emergency Stop Switch
+0
+39
+39
+BAYASHI_Footprint-library
+FR01FR10H
+Address Select Dial Switch
+
+0
+5
+5
+BAYASHI_Footprint-library
+HIP2101EIBZ
+Driver_SMD&MD
+Driver_SMD&MD
+0
+9
+9
+BAYASHI_Footprint-library
+IM920c_2.54mm_adapter
+https://akizukidenshi.com/catalog/g/gM-10139/
+
+0
+20
+20
+BAYASHI_Footprint-library
+INA229AQDGSRQ1
+SPI current monitor
+Integrated Circuit
+0
+10
+10
+BAYASHI_Footprint-library
+INA239AIDGSR
+SPI current monitor
+Integrated Circuit
+0
+10
+10
+BAYASHI_Footprint-library
+IR2110SPBF
+Half bridge gate driver
+
+0
+16
+16
+BAYASHI_Footprint-library
+IRFB3607
+MOSFET (N-Channel)_MD
+MOSFET (N-Channel)_MD
+0
+3
+3
+BAYASHI_Footprint-library
+IRFS7730-7P
+MOSFET(N-ch)_SMD
+MOSFET(N-ch)_SMD
+0
+7
+7
+BAYASHI_Footprint-library
+Jack DC power
+
+
+0
+3
+3
+BAYASHI_Footprint-library
+Jack_steleo
+
+
+0
+4
+4
+BAYASHI_Footprint-library
+Jumper_Pad
+Jumper_Pad
+Jumper_Pad
+0
+1
+1
+BAYASHI_Footprint-library
+Jumper_Pad_fillet_square
+Jumper_Pad
+Jumper_Pad
+0
+1
+1
+BAYASHI_Footprint-library
+Jumper_Pad_slim
+Jumper_Pad
+Jumper_Pad
+0
+1
+1
+BAYASHI_Footprint-library
+Jumper_Pad_square
+Jumper_Pad
+Jumper_Pad
+0
+1
+1
+BAYASHI_Footprint-library
+Jumper_Pad_square_fillet
+Jumper_Pad
+Jumper_Pad
+0
+1
+1
+BAYASHI_Footprint-library
+LED_3.0mm_THD
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+BAYASHI_Footprint-library
+LED_5.0mm_THD
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+BAYASHI_Footprint-library
+LED_SMD
+
+
+0
+2
+2
+BAYASHI_Footprint-library
+LQFP-32_7x7mm_Pitch0.8mm
+LQFP32: plastic low profile quad flat package; 32 leads; body 7 x 7 x 1.4 mm (see NXP sot358-1_po.pdf and sot358-1_fr.pdf)
+QFP 0.8
+0
+32
+32
+BAYASHI_Footprint-library
+LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm
+LQFP, 48 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+58
+49
+BAYASHI_Footprint-library
+LQFP-48_7x7mm_P0.5mm
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+BAYASHI_Footprint-library
+LQFP-64_10x10mm_P0.5mm
+LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+64
+64
+BAYASHI_Footprint-library
+M51957B
+Voltage detection system reset IC
+
+0
+8
+8
+BAYASHI_Footprint-library
+MCP2562
+1Mbps CAN transceiver
+
+0
+8
+8
+BAYASHI_Footprint-library
+MIKROE-1104
+STM32F207VGT6
+EasyMx PRO v7
+0
+104
+104
+BAYASHI_Footprint-library
+MIKROE-1104(forGWB_V1)
+STM32F207VGT6
+EasyMx PRO v7
+0
+96
+96
+BAYASHI_Footprint-library
+MIWI06-24S05
+Insolation DC-DC Converter
+Insolation DC-DC Converter
+0
+8
+8
+BAYASHI_Footprint-library
+MODULE_ABX00053
+
+
+0
+30
+30
+BAYASHI_Footprint-library
+MODULE_NUCLEO-F446RE
+STM board
+
+0
+108
+108
+BAYASHI_Footprint-library
+MPD2K020S
+DC-DC Converter
+DC-DC Converter
+0
+11
+11
+BAYASHI_Footprint-library
+MR30PW-FB-Horizontal
+Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
+RC Connector XT30
+0
+5
+3
+BAYASHI_Footprint-library
+MR30PW-M-Horizontal
+Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
+RC Connector XT30
+0
+5
+3
+BAYASHI_Footprint-library
+MountingHole_3mm
+Mounting Hole 3mm, no annular
+mounting hole 3mm no annular
+0
+0
+0
+BAYASHI_Footprint-library
+MountingHole_3mm_Pad
+Mounting Hole 3mm
+mounting hole 3mm
+0
+1
+1
+BAYASHI_Footprint-library
+MountingHole_3mm_Pad_Via
+Mounting Hole 3mm
+mounting hole 3mm
+0
+9
+1
+BAYASHI_Footprint-library
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+BAYASHI_Footprint-library
+NJM7800SDL1
+12→5V 1A regulator
+
+0
+8
+3
+BAYASHI_Footprint-library
+NUCLEO-F207ZG
+
+
+0
+48
+48
+BAYASHI_Footprint-library
+NUCLEO-F303K8
+
+
+0
+30
+30
+BAYASHI_Footprint-library
+NUCLEO-F446RE_for_Arduino_shield
+STM board
+
+0
+32
+32
+BAYASHI_Footprint-library
+NUCLEO-F446RE_non_Arduino_shield
+STM board
+
+0
+76
+76
+BAYASHI_Footprint-library
+NUCLEO144-F207ZG
+
+
+0
+244
+244
+BAYASHI_Footprint-library
+OKL-T_6-W12N-C
+DC-DC Converter
+DC-DC Converter
+0
+12
+12
+BAYASHI_Footprint-library
+PIC16F648A
+
+
+0
+18
+18
+BAYASHI_Footprint-library
+PIC18F23K22_SMD
+Micro Computer
+Micro Computer
+0
+28
+28
+BAYASHI_Footprint-library
+PIC18F23K22_THD
+Micro Computer
+Micro Computer
+0
+28
+28
+BAYASHI_Footprint-library
+PinHeader_1x01_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+1
+1
+BAYASHI_Footprint-library
+PinHeader_1x02_Horizontal
+Through hole angled pin header, 1x02, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x02 2.54mm single row
+0
+2
+2
+BAYASHI_Footprint-library
+PinHeader_1x02_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+BAYASHI_Footprint-library
+PinHeader_1x03_Horizontal
+Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x03 2.54mm single row
+0
+3
+3
+BAYASHI_Footprint-library
+PinHeader_1x03_Vertical
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+BAYASHI_Footprint-library
+PinHeader_1x04_Horizontal
+Through hole angled pin header, 1x04, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x04 2.54mm single row
+0
+4
+4
+BAYASHI_Footprint-library
+PinHeader_1x04_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+BAYASHI_Footprint-library
+PinHeader_1x05_Horizontal
+Through hole angled pin header, 1x05, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x05 2.54mm single row
+0
+5
+5
+BAYASHI_Footprint-library
+PinHeader_1x05_Vertical
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+BAYASHI_Footprint-library
+PinHeader_1x06_Horizontal
+Through hole angled pin header, 1x06, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x06 2.54mm single row
+0
+6
+6
+BAYASHI_Footprint-library
+PinHeader_1x06_Vertical
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+BAYASHI_Footprint-library
+PinHeader_1x07_Horizontal
+Through hole angled pin header, 1x07, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x07 2.54mm single row
+0
+7
+7
+BAYASHI_Footprint-library
+PinHeader_1x07_Vertical
+Through hole straight pin header, 1x07, 2.54mm pitch, single row
+Through hole pin header THT 1x07 2.54mm single row
+0
+7
+7
+BAYASHI_Footprint-library
+PinHeader_1x08_Horizontal
+Through hole angled pin header, 1x08, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x08 2.54mm single row
+0
+8
+8
+BAYASHI_Footprint-library
+PinHeader_1x08_Vertical
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+BAYASHI_Footprint-library
+PinHeader_1x09_Horizontal
+Through hole angled pin header, 1x09, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x09 2.54mm single row
+0
+9
+9
+BAYASHI_Footprint-library
+PinHeader_1x09_Vertical
+Through hole straight pin header, 1x09, 2.54mm pitch, single row
+Through hole pin header THT 1x09 2.54mm single row
+0
+9
+9
+BAYASHI_Footprint-library
+PinHeader_1x10_Horizontal
+Through hole angled pin header, 1x10, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x10 2.54mm single row
+0
+10
+10
+BAYASHI_Footprint-library
+PinHeader_1x10_Vertical
+Through hole straight pin header, 1x10, 2.54mm pitch, single row
+Through hole pin header THT 1x10 2.54mm single row
+0
+10
+10
+BAYASHI_Footprint-library
+PinHeader_1x11_Horizontal
+Through hole angled pin header, 1x11, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x11 2.54mm single row
+0
+11
+11
+BAYASHI_Footprint-library
+PinHeader_1x11_Vertical
+Through hole straight pin header, 1x11, 2.54mm pitch, single row
+Through hole pin header THT 1x11 2.54mm single row
+0
+11
+11
+BAYASHI_Footprint-library
+PinHeader_1x12_Horizontal
+Through hole angled pin header, 1x12, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x12 2.54mm single row
+0
+12
+12
+BAYASHI_Footprint-library
+PinHeader_1x12_Vertical
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+12
+12
+BAYASHI_Footprint-library
+PinHeader_1x13_Horizontal
+Through hole angled pin header, 1x13, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x13 2.54mm single row
+0
+13
+13
+BAYASHI_Footprint-library
+PinHeader_1x13_Vertical
+Through hole straight pin header, 1x13, 2.54mm pitch, single row
+Through hole pin header THT 1x13 2.54mm single row
+0
+13
+13
+BAYASHI_Footprint-library
+PinHeader_1x14_Horizontal
+Through hole angled pin header, 1x14, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x14 2.54mm single row
+0
+14
+14
+BAYASHI_Footprint-library
+PinHeader_1x14_Vertical
+Through hole straight pin header, 1x14, 2.54mm pitch, single row
+Through hole pin header THT 1x14 2.54mm single row
+0
+14
+14
+BAYASHI_Footprint-library
+PinHeader_1x15_Horizontal
+Through hole angled pin header, 1x15, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x15 2.54mm single row
+0
+15
+15
+BAYASHI_Footprint-library
+PinHeader_1x15_Vertical
+Through hole straight pin header, 1x15, 2.54mm pitch, single row
+Through hole pin header THT 1x15 2.54mm single row
+0
+15
+15
+BAYASHI_Footprint-library
+PinHeader_1x16_Horizontal
+Through hole angled pin header, 1x16, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x16 2.54mm single row
+0
+16
+16
+BAYASHI_Footprint-library
+PinHeader_1x16_Vertical
+Through hole straight pin header, 1x16, 2.54mm pitch, single row
+Through hole pin header THT 1x16 2.54mm single row
+0
+16
+16
+BAYASHI_Footprint-library
+PinHeader_1x17_Horizontal
+Through hole angled pin header, 1x17, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x17 2.54mm single row
+0
+17
+17
+BAYASHI_Footprint-library
+PinHeader_1x17_Vertical
+Through hole straight pin header, 1x17, 2.54mm pitch, single row
+Through hole pin header THT 1x17 2.54mm single row
+0
+17
+17
+BAYASHI_Footprint-library
+PinHeader_1x18_Horizontal
+Through hole angled pin header, 1x18, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x18 2.54mm single row
+0
+18
+18
+BAYASHI_Footprint-library
+PinHeader_1x18_Vertical
+Through hole straight pin header, 1x18, 2.54mm pitch, single row
+Through hole pin header THT 1x18 2.54mm single row
+0
+18
+18
+BAYASHI_Footprint-library
+PinHeader_1x19_Horizontal
+Through hole angled pin header, 1x19, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x19 2.54mm single row
+0
+19
+19
+BAYASHI_Footprint-library
+PinHeader_1x19_Vertical
+Through hole straight pin header, 1x19, 2.54mm pitch, single row
+Through hole pin header THT 1x19 2.54mm single row
+0
+19
+19
+BAYASHI_Footprint-library
+PinHeader_1x20_Horizontal
+Through hole angled pin header, 1x20, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x20 2.54mm single row
+0
+20
+20
+BAYASHI_Footprint-library
+PinHeader_1x20_Vertical
+Through hole straight pin header, 1x20, 2.54mm pitch, single row
+Through hole pin header THT 1x20 2.54mm single row
+0
+20
+20
+BAYASHI_Footprint-library
+PinHeader_2x01_Horizontal
+Through hole angled pin header, 2x01, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x01 2.54mm double row
+0
+2
+2
+BAYASHI_Footprint-library
+PinHeader_2x01_Vertical
+Through hole straight pin header, 2x01, 2.54mm pitch, double rows
+Through hole pin header THT 2x01 2.54mm double row
+0
+2
+2
+BAYASHI_Footprint-library
+PinHeader_2x02_Horizontal
+Through hole angled pin header, 2x02, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x02 2.54mm double row
+0
+4
+4
+BAYASHI_Footprint-library
+PinHeader_2x02_Vertical
+Through hole straight pin header, 2x02, 2.54mm pitch, double rows
+Through hole pin header THT 2x02 2.54mm double row
+0
+4
+4
+BAYASHI_Footprint-library
+PinHeader_2x03_Horizontal
+Through hole angled pin header, 2x03, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x03 2.54mm double row
+0
+6
+6
+BAYASHI_Footprint-library
+PinHeader_2x03_Vertical
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+BAYASHI_Footprint-library
+PinHeader_2x04_Horizontal
+Through hole angled pin header, 2x04, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x04 2.54mm double row
+0
+8
+8
+BAYASHI_Footprint-library
+PinHeader_2x04_Vertical
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+8
+8
+BAYASHI_Footprint-library
+PinHeader_2x05_Horizontal
+Through hole angled pin header, 2x05, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x05 2.54mm double row
+0
+10
+10
+BAYASHI_Footprint-library
+PinHeader_2x05_Vertical
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+10
+10
+BAYASHI_Footprint-library
+PinHeader_2x06_Horizontal
+Through hole angled pin header, 2x06, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x06 2.54mm double row
+0
+12
+12
+BAYASHI_Footprint-library
+PinHeader_2x06_Vertical
+Through hole straight pin header, 2x06, 2.54mm pitch, double rows
+Through hole pin header THT 2x06 2.54mm double row
+0
+12
+12
+BAYASHI_Footprint-library
+PinHeader_2x07_Horizontal
+Through hole angled pin header, 2x07, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x07 2.54mm double row
+0
+14
+14
+BAYASHI_Footprint-library
+PinHeader_2x07_Vertical
+Through hole straight pin header, 2x07, 2.54mm pitch, double rows
+Through hole pin header THT 2x07 2.54mm double row
+0
+14
+14
+BAYASHI_Footprint-library
+PinHeader_2x08_Horizontal
+Through hole angled pin header, 2x08, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x08 2.54mm double row
+0
+16
+16
+BAYASHI_Footprint-library
+PinHeader_2x08_Vertical
+Through hole straight pin header, 2x08, 2.54mm pitch, double rows
+Through hole pin header THT 2x08 2.54mm double row
+0
+16
+16
+BAYASHI_Footprint-library
+PinHeader_2x09_Horizontal
+Through hole angled pin header, 2x09, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x09 2.54mm double row
+0
+18
+18
+BAYASHI_Footprint-library
+PinHeader_2x09_Vertical
+Through hole straight pin header, 2x09, 2.54mm pitch, double rows
+Through hole pin header THT 2x09 2.54mm double row
+0
+18
+18
+BAYASHI_Footprint-library
+PinHeader_2x10_Horizontal
+Through hole angled pin header, 2x10, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x10 2.54mm double row
+0
+20
+20
+BAYASHI_Footprint-library
+PinHeader_2x10_Vertical
+Through hole straight pin header, 2x10, 2.54mm pitch, double rows
+Through hole pin header THT 2x10 2.54mm double row
+0
+20
+20
+BAYASHI_Footprint-library
+PinHeader_2x11_Horizontal
+Through hole angled pin header, 2x11, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x11 2.54mm double row
+0
+22
+22
+BAYASHI_Footprint-library
+PinHeader_2x11_Vertical
+Through hole straight pin header, 2x11, 2.54mm pitch, double rows
+Through hole pin header THT 2x11 2.54mm double row
+0
+22
+22
+BAYASHI_Footprint-library
+PinHeader_2x12_Horizontal
+Through hole angled pin header, 2x12, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x12 2.54mm double row
+0
+24
+24
+BAYASHI_Footprint-library
+PinHeader_2x12_Vertical
+Through hole straight pin header, 2x12, 2.54mm pitch, double rows
+Through hole pin header THT 2x12 2.54mm double row
+0
+24
+24
+BAYASHI_Footprint-library
+PinHeader_2x13_Horizontal
+Through hole angled pin header, 2x13, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x13 2.54mm double row
+0
+26
+26
+BAYASHI_Footprint-library
+PinHeader_2x13_Vertical
+Through hole straight pin header, 2x13, 2.54mm pitch, double rows
+Through hole pin header THT 2x13 2.54mm double row
+0
+26
+26
+BAYASHI_Footprint-library
+PinHeader_2x14_Horizontal
+Through hole angled pin header, 2x14, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x14 2.54mm double row
+0
+28
+28
+BAYASHI_Footprint-library
+PinHeader_2x14_Vertical
+Through hole straight pin header, 2x14, 2.54mm pitch, double rows
+Through hole pin header THT 2x14 2.54mm double row
+0
+28
+28
+BAYASHI_Footprint-library
+PinHeader_2x15_Horizontal
+Through hole angled pin header, 2x15, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x15 2.54mm double row
+0
+30
+30
+BAYASHI_Footprint-library
+PinHeader_2x15_Vertical
+Through hole straight pin header, 2x15, 2.54mm pitch, double rows
+Through hole pin header THT 2x15 2.54mm double row
+0
+30
+30
+BAYASHI_Footprint-library
+PinHeader_2x16_Horizontal
+Through hole angled pin header, 2x16, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x16 2.54mm double row
+0
+32
+32
+BAYASHI_Footprint-library
+PinHeader_2x16_Vertical
+Through hole straight pin header, 2x16, 2.54mm pitch, double rows
+Through hole pin header THT 2x16 2.54mm double row
+0
+32
+32
+BAYASHI_Footprint-library
+PinHeader_2x17_Horizontal
+Through hole angled pin header, 2x17, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x17 2.54mm double row
+0
+34
+34
+BAYASHI_Footprint-library
+PinHeader_2x17_Vertical
+Through hole straight pin header, 2x17, 2.54mm pitch, double rows
+Through hole pin header THT 2x17 2.54mm double row
+0
+34
+34
+BAYASHI_Footprint-library
+PinHeader_2x18_Horizontal
+Through hole angled pin header, 2x18, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x18 2.54mm double row
+0
+36
+36
+BAYASHI_Footprint-library
+PinHeader_2x18_Vertical
+Through hole straight pin header, 2x18, 2.54mm pitch, double rows
+Through hole pin header THT 2x18 2.54mm double row
+0
+36
+36
+BAYASHI_Footprint-library
+PinHeader_2x19_Horizontal
+Through hole angled pin header, 2x19, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x19 2.54mm double row
+0
+38
+38
+BAYASHI_Footprint-library
+PinHeader_2x19_Vertical
+Through hole straight pin header, 2x19, 2.54mm pitch, double rows
+Through hole pin header THT 2x19 2.54mm double row
+0
+38
+38
+BAYASHI_Footprint-library
+PinHeader_2x20_Horizontal
+Through hole angled pin header, 2x20, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x20 2.54mm double row
+0
+40
+40
+BAYASHI_Footprint-library
+PinHeader_2x20_Vertical
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+BAYASHI_Footprint-library
+PinSocket_1x01_Vertical
+Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x02 2.54mm single row
+0
+1
+1
+BAYASHI_Footprint-library
+PinSocket_1x02_Vertical
+Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x02 2.54mm single row
+0
+2
+2
+BAYASHI_Footprint-library
+PinSocket_1x03_Vertical
+Through hole straight socket strip, 1x03, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x03 2.54mm single row
+0
+3
+3
+BAYASHI_Footprint-library
+PinSocket_1x04_Vertical
+Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x04 2.54mm single row
+0
+4
+4
+BAYASHI_Footprint-library
+PinSocket_1x05_Vertical
+Through hole straight socket strip, 1x05, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x05 2.54mm single row
+0
+5
+5
+BAYASHI_Footprint-library
+PinSocket_1x06_Vertical
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+BAYASHI_Footprint-library
+PinSocket_1x07_Vertical
+Through hole straight socket strip, 1x07, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x07 2.54mm single row
+0
+7
+7
+BAYASHI_Footprint-library
+PinSocket_1x08_Vertical
+Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x08 2.54mm single row
+0
+8
+8
+BAYASHI_Footprint-library
+PinSocket_1x09_Vertical
+Through hole straight socket strip, 1x09, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x09 2.54mm single row
+0
+9
+9
+BAYASHI_Footprint-library
+PinSocket_1x10_Vertical
+Through hole straight socket strip, 1x10, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x10 2.54mm single row
+0
+10
+10
+BAYASHI_Footprint-library
+PinSocket_1x11_Vertical
+Through hole straight socket strip, 1x11, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x11 2.54mm single row
+0
+11
+11
+BAYASHI_Footprint-library
+PinSocket_1x12_Vertical
+Through hole straight socket strip, 1x12, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x12 2.54mm single row
+0
+12
+12
+BAYASHI_Footprint-library
+PinSocket_1x13_Vertical
+Through hole straight socket strip, 1x13, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x13 2.54mm single row
+0
+13
+13
+BAYASHI_Footprint-library
+PinSocket_1x14_Vertical
+Through hole straight socket strip, 1x14, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x14 2.54mm single row
+0
+14
+14
+BAYASHI_Footprint-library
+PinSocket_1x15_Vertical
+Through hole straight socket strip, 1x15, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x15 2.54mm single row
+0
+15
+15
+BAYASHI_Footprint-library
+PinSocket_1x16_Vertical
+Through hole straight socket strip, 1x16, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x16 2.54mm single row
+0
+16
+16
+BAYASHI_Footprint-library
+PinSocket_1x17_Vertical
+Through hole straight socket strip, 1x17, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x17 2.54mm single row
+0
+17
+17
+BAYASHI_Footprint-library
+PinSocket_1x18_Vertical
+Through hole straight socket strip, 1x18, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x18 2.54mm single row
+0
+18
+18
+BAYASHI_Footprint-library
+PinSocket_1x19_Vertical
+Through hole straight socket strip, 1x19, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x19 2.54mm single row
+0
+19
+19
+BAYASHI_Footprint-library
+PinSocket_1x20_Vertical
+Through hole straight socket strip, 1x20, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x20 2.54mm single row
+0
+20
+20
+BAYASHI_Footprint-library
+PinSocket_2x01_Vertical
+Through hole straight socket strip, 2x01, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x01 2.54mm double row
+0
+2
+2
+BAYASHI_Footprint-library
+PinSocket_2x02_Vertical
+Through hole straight socket strip, 2x02, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x02 2.54mm double row
+0
+4
+4
+BAYASHI_Footprint-library
+PinSocket_2x03_Vertical
+Through hole straight socket strip, 2x03, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x03 2.54mm double row
+0
+6
+6
+BAYASHI_Footprint-library
+PinSocket_2x04_Vertical
+Through hole straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x04 2.54mm double row
+0
+8
+8
+BAYASHI_Footprint-library
+PinSocket_2x05_Vertical
+Through hole straight socket strip, 2x05, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x05 2.54mm double row
+0
+10
+10
+BAYASHI_Footprint-library
+PinSocket_2x06_Vertical
+Through hole straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x06 2.54mm double row
+0
+12
+12
+BAYASHI_Footprint-library
+PinSocket_2x07_Vertical
+Through hole straight socket strip, 2x07, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x07 2.54mm double row
+0
+14
+14
+BAYASHI_Footprint-library
+PinSocket_2x08_Vertical
+Through hole straight socket strip, 2x08, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x08 2.54mm double row
+0
+16
+16
+BAYASHI_Footprint-library
+PinSocket_2x09_Vertical
+Through hole straight socket strip, 2x09, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x09 2.54mm double row
+0
+18
+18
+BAYASHI_Footprint-library
+PinSocket_2x10_Vertical
+Through hole straight socket strip, 2x10, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x10 2.54mm double row
+0
+20
+20
+BAYASHI_Footprint-library
+PinSocket_2x11_Vertical
+Through hole straight socket strip, 2x11, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x11 2.54mm double row
+0
+22
+22
+BAYASHI_Footprint-library
+PinSocket_2x12_Vertical
+Through hole straight socket strip, 2x12, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x12 2.54mm double row
+0
+24
+24
+BAYASHI_Footprint-library
+PinSocket_2x13_Vertical
+Through hole straight socket strip, 2x13, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x13 2.54mm double row
+0
+26
+26
+BAYASHI_Footprint-library
+PinSocket_2x14_Vertical
+Through hole straight socket strip, 2x14, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x14 2.54mm double row
+0
+28
+28
+BAYASHI_Footprint-library
+PinSocket_2x15_Vertical
+Through hole straight socket strip, 2x15, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x15 2.54mm double row
+0
+30
+30
+BAYASHI_Footprint-library
+PinSocket_2x16_Vertical
+Through hole straight socket strip, 2x16, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x16 2.54mm double row
+0
+32
+32
+BAYASHI_Footprint-library
+PinSocket_2x17_Vertical
+Through hole straight socket strip, 2x17, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x17 2.54mm double row
+0
+34
+34
+BAYASHI_Footprint-library
+PinSocket_2x18_Vertical
+Through hole straight socket strip, 2x18, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x18 2.54mm double row
+0
+36
+36
+BAYASHI_Footprint-library
+PinSocket_2x19_Vertical
+Through hole straight socket strip, 2x19, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x19 2.54mm double row
+0
+38
+38
+BAYASHI_Footprint-library
+PinSocket_2x20_Vertical
+Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x20 2.54mm double row
+0
+40
+40
+BAYASHI_Footprint-library
+RJ45_Amphenol_RJMG1BD3B8K1ANR
+1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF
+RJ45 Magjack
+0
+14
+13
+BAYASHI_Footprint-library
+RJ45_Cetus_J1B1211CCD_Horizontal
+1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, Cetus, used and distributed by WIZnet (https://wizwiki.net/wiki/lib/exe/fetch.php?media=products:wiz550web:wiz550webds_kr:j1b1211ccd.pdf)
+RJ45 Magjack
+0
+14
+13
+BAYASHI_Footprint-library
+RJ45_UDE_RB1-125B8G1A
+1 Port RJ45 Connector Through Hole 10/100/1000 Base-T, https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf#page=3
+RJ45 ethernet
+0
+16
+15
+BAYASHI_Footprint-library
+RJLD_260TC1
+1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX
+RJ45 Magjack
+0
+14
+13
+BAYASHI_Footprint-library
+RK09K1110B26
+RK09K1110B26
+Variable Resistor
+0
+5
+5
+BAYASHI_Footprint-library
+RL180-12
+
+
+0
+4
+2
+BAYASHI_Footprint-library
+ROBOKEN
+
+
+0
+1
+1
+BAYASHI_Footprint-library
+ROBOKEN_order
+
+
+0
+0
+0
+BAYASHI_Footprint-library
+R_SMD
+resistor
+resistor
+0
+2
+2
+BAYASHI_Footprint-library
+R_THD(Small)
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
+2
+BAYASHI_Footprint-library
+R_THD(normal)
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+BAYASHI_Footprint-library
+R_shunt(3921)
+shunt resistor
+
+0
+2
+2
+BAYASHI_Footprint-library
+R_variable
+
+
+0
+3
+3
+BAYASHI_Footprint-library
+Raspberry PI Zero
+
+
+0
+44
+40
+BAYASHI_Footprint-library
+S11059-02DT
+Color Sensor(SMD)
+Color Sensor(SMD)
+0
+10
+10
+BAYASHI_Footprint-library
+SK54
+Schottky Diode for MD
+Schottky Diode for MD
+0
+2
+2
+BAYASHI_Footprint-library
+SK104
+Schottky Diode for SMD
+Schottky Diode for SMD
+0
+2
+2
+BAYASHI_Footprint-library
+SMCJ28A-TR
+Transient Voltage Surppressor Diode
+Diode SMC (DO-214AB)
+0
+2
+2
+BAYASHI_Footprint-library
+SOD-323
+SOD-323 Chip Diode
+SOD-323 SC-90A UMD2
+0
+2
+2
+BAYASHI_Footprint-library
+SOIC127P600X175-8N
+
+
+0
+8
+8
+BAYASHI_Footprint-library
+SOT-89-3
+SOT-89-3
+SOT-89-3
+0
+6
+3
+BAYASHI_Footprint-library
+SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+BAYASHI_Footprint-library
+SOT-323_SC-70_Handsoldering
+SOT-323, SC-70 Handsoldering
+SOT-323 SC-70 Handsoldering
+0
+3
+3
+BAYASHI_Footprint-library
+SOT-346
+SOT-346 Chip Transistor Diode
+SC-59 2-3F1A TO-236MOD S-Mini 
+0
+3
+3
+BAYASHI_Footprint-library
+SOT95P240X111-3N
+
+
+0
+3
+3
+BAYASHI_Footprint-library
+SOT95P280X125-3N
+
+
+0
+3
+3
+BAYASHI_Footprint-library
+ST_MultiPowerSO-30
+MultiPowerSO-30 3EP 16.0x17.2mm Pitch 1mm (http://www.st.com/resource/en/datasheet/vnh2sp30-e.pdf)
+MultiPowerSO-30 3EP 16.0x17.2mm Pitch 1mm
+0
+33
+33
+BAYASHI_Footprint-library
+SX34F
+Diode for AD
+Diode for AD
+0
+2
+2
+BAYASHI_Footprint-library
+SeeeduinoXIAO_SMD
+SMD
+
+0
+14
+14
+BAYASHI_Footprint-library
+SeeeduinoXIAO_THD
+THD
+
+0
+14
+14
+BAYASHI_Footprint-library
+Switch_SPDT
+
+
+0
+5
+3
+BAYASHI_Footprint-library
+TA78M05F
+Regulator for MD&MMD
+Regulator for MD&MMD
+0
+3
+3
+BAYASHI_Footprint-library
+TA7291P
+HSIP10P 2.54 PACKAGE
+
+0
+10
+10
+BAYASHI_Footprint-library
+TB6643KQ
+Driber for MMD
+Driber for MMD
+0
+7
+7
+BAYASHI_Footprint-library
+TC74VHC32F
+SOP14-P-300-1.27A
+Hardware
+0
+14
+14
+BAYASHI_Footprint-library
+TCS3200
+RGB Color Sensor
+SOIC-8
+0
+8
+8
+BAYASHI_Footprint-library
+TCS3200(DFROBOT)
+Color sensor module
+Breakout board
+0
+10
+10
+BAYASHI_Footprint-library
+TCS3200-module
+Color sensor module
+Breakout board
+0
+8
+8
+BAYASHI_Footprint-library
+TLP250
+
+
+0
+8
+8
+BAYASHI_Footprint-library
+TLP2361
+Photo coupler
+Photo coupler
+0
+5
+5
+BAYASHI_Footprint-library
+TLP2368
+Photo coupler
+Photo coupler
+0
+5
+5
+BAYASHI_Footprint-library
+TLP3910C20-TP_E
+Photocouplers GaA ℓAs Infrared LED & Photo Diode
+MOSFET Gate Drivers
+0
+6
+6
+BAYASHI_Footprint-library
+TMCS1100A2QDRQ1
+Current sensor
+Integrated Circuit
+0
+8
+8
+BAYASHI_Footprint-library
+TO-92_transistor_mod
+For 2SA1015 & 2SC1815
+For 2SA1015 & 2SC1815
+0
+3
+3
+BAYASHI_Footprint-library
+TO-92_transistor_v2
+For 2SA1015 & 2SC1815
+For 2SA1015 & 2SC1815
+0
+3
+3
+BAYASHI_Footprint-library
+TO-252-3_TabPin2
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+8
+3
+BAYASHI_Footprint-library
+Tact_Switch_6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+Tact_Switch_6mm
+0
+4
+2
+BAYASHI_Footprint-library
+Transistor
+For 2SA1015 & 2SC1815
+For 2SA1015 & 2SC1815
+0
+3
+3
+BAYASHI_Footprint-library
+Type-c_charging-module
+
+
+0
+6
+2
+BAYASHI_Footprint-library
+USB-A_SMD
+<B>WR-COM</B><BR> USB 2.0 Type A Horizontal SMT Short Type
+
+0
+8
+8
+BAYASHI_Footprint-library
+USB-miniB_SMD
+
+
+0
+9
+6
+BAYASHI_Footprint-library
+USB_C
+
+
+0
+11
+11
+BAYASHI_Footprint-library
+Wii_IR_sensor
+
+
+0
+8
+8
+BAYASHI_Footprint-library
+XB24-AWI-001
+Digi XBee 802.15.4
+Xbee
+0
+20
+20
+BAYASHI_Footprint-library
+XH_2Pin_Horizontal
+JST XH series connector, S2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+XH connector Horizontal
+0
+2
+2
+BAYASHI_Footprint-library
+XH_2Pin_Vertical
+JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+XH connector vertical
+0
+2
+2
+BAYASHI_Footprint-library
+XH_3Pin_Horizontal
+JST XH series connector, S3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+XH connector Horizontal
+0
+3
+3
+BAYASHI_Footprint-library
+XH_3Pin_Vertical
+JST XH series connector, B3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+XH connector vertical
+0
+3
+3
+BAYASHI_Footprint-library
+XH_4Pin_Horizontal
+JST XH series connector, S4B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+XH connector Horizontal
+0
+4
+4
+BAYASHI_Footprint-library
+XH_4Pin_Vertical
+JST XH series connector, B4B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+XH connector vertical
+0
+4
+4
+BAYASHI_Footprint-library
+XH_6Pin_Horizontal
+JST XH series connector, S6B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+XH connector Horizontal
+0
+6
+6
+BAYASHI_Footprint-library
+XH_6Pin_Vertical
+JST XH series connector, B6B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+XH connector vertical
+0
+6
+6
+BAYASHI_Footprint-library
+XT30PW-F-Horizontal
+Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf
+RC Connector XT30
+0
+4
+2
+BAYASHI_Footprint-library
+XT30PW-M-Horizontal
+Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf
+RC Connector XT30
+0
+4
+2
+BAYASHI_Footprint-library
+XT30U-F-Vertical
+Connector XT30 Vertical Cable Female, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+BAYASHI_Footprint-library
+XT30U-M-Vertical
+Connector XT30 Vertical Cable Male, https://www.tme.eu/en/Document/3cbfa5cfa544d79584972dd5234a409e/XT30U%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+BAYASHI_Footprint-library
+XT30UPB-F-Vertical
+Connector XT30 Vertical PCB Female, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+BAYASHI_Footprint-library
+XT30UPB-M-Vertical
+Connector XT30 Vertical PCB Male, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf
+RC Connector XT30
+0
+2
+2
+BAYASHI_Footprint-library
+XT60H-F
+Power connector
+AMASS, https://www.marutsu.co.jp/contents/shop/marutsu/datasheet/XT60H-F.pdf
+0
+2
+2
+BAYASHI_Footprint-library
+XT60H-M
+Power connector
+AMASS, https://www.marutsu.co.jp/contents/shop/marutsu/datasheet/XT60H-M.pdf
+0
+2
+2
+BAYASHI_Footprint-library
+XT60PT-M
+
+
+0
+4
+4
+BAYASHI_Footprint-library
+XT60PW-F
+Power connector
+
+0
+4
+4
+BAYASHI_Footprint-library
+XT60PW-M
+Power connector
+
+0
+4
+4
+BAYASHI_Footprint-library
+crystal
+
+
+0
+2
+2
+BAYASHI_Footprint-library
+crystal_oscillitor
+
+
+0
+4
+4
+BAYASHI_Footprint-library
+hole_3mm
+
+
+0
+0
+0
+BAYASHI_Footprint-library
+mbed_LPC1768
+
+
+0
+40
+20
+BAYASHI_Footprint-library
+mikroe(kari)
+
+
+0
+52
+52
+BAYASHI_Footprint-library
+pad
+
+
+0
+1
+0
+BAYASHI_Footprint-library
+pattern_connector
+For direct soldering of wires
+
+0
+1
+1
+BAYASHI_Footprint-library
+push_switch
+
+
+0
+4
+2
+BAYASHI_Footprint-library
+roboken_logo
+
+
+0
+0
+0
+BAYASHI_Footprint-library
+slide switch_THD
+
+
+0
+5
+5
+BAYASHI_Footprint-library
+suteleo
+
+
+0
+5
+5
+BAYASHI_Footprint-library
+vgacable trans
+
+
+0
+15
+15
+BAYASHI_Footprint-library
+wire-pad
+
+
+0
+1
+1
