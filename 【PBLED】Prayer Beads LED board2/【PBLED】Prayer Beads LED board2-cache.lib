@@ -1,6 +1,83 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# BAYASHI_Symbol-library_+5V
+#
+DEF BAYASHI_Symbol-library_+5V #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "BAYASHI_Symbol-library_+5V" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +5V 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# BAYASHI_Symbol-library_LOGIC-74HC595D(SOIC16)
+#
+DEF BAYASHI_Symbol-library_LOGIC-74HC595D(SOIC16) U 0 40 Y Y 1 L N
+F0 "U" -300 601 50 H V L BNN
+F1 "BAYASHI_Symbol-library_LOGIC-74HC595D(SOIC16)" 0 600 50 H V L BNN
+F2 "SOIC16-1.27-10X3.9MM" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "74HC595D" 0 0 50 H I L BNN "MPN"
+DRAW
+S -300 -550 300 550 0 0 16 f
+X QB 1 500 250 200 L 40 40 0 0 T
+X SCL 10 -500 150 200 R 40 40 0 0 I I
+X SCK 11 -500 250 200 R 40 40 0 0 I C
+X RCK 12 -500 -50 200 R 40 40 0 0 I C
+X G 13 -500 -250 200 R 40 40 0 0 I I
+X SER 14 -500 450 200 R 40 40 0 0 I
+X QA 15 500 350 200 L 40 40 0 0 T
+X VCC 16 500 450 200 L 40 40 0 0 W
+X QC 2 500 150 200 L 40 40 0 0 T
+X QD 3 500 50 200 L 40 40 0 0 T
+X QE 4 500 -50 200 L 40 40 0 0 T
+X QF 5 500 -150 200 L 40 40 0 0 T
+X QG 6 500 -250 200 L 40 40 0 0 T
+X QH 7 500 -350 200 L 40 40 0 0 T
+X GND 8 -500 -450 200 R 40 40 0 0 W
+X QH* 9 500 -450 200 L 40 40 0 0 T
+ENDDRAW
+ENDDEF
+#
+# BAYASHI_Symbol-library_PWR_FLAG
+#
+DEF BAYASHI_Symbol-library_PWR_FLAG #FLG 0 0 N N 1 F P
+F0 "#FLG" 0 75 50 H I C CNN
+F1 "BAYASHI_Symbol-library_PWR_FLAG" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 50 -40 75 0 100 40 75 0 50 N
+X pwr 1 0 0 0 U 50 50 0 0 w
+ENDDRAW
+ENDDEF
+#
+# BAYASHI_Symbol-library_USB-C
+#
+DEF BAYASHI_Symbol-library_USB-C U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H I C CNN
+F1 "BAYASHI_Symbol-library_USB-C" 0 0 50 H V C CNN
+F2 "Footprint-library:USB_C" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -350 -100 300 -1000 0 1 0 N
+X GND A12 -450 -900 100 R 50 50 1 1 W
+X CC1 A5 -450 -400 100 R 50 50 1 1 P
+X DP1 A6 -450 -500 100 R 50 50 1 1 P
+X DN1 A7 -450 -600 100 R 50 50 1 1 P
+X VBUS A9 -450 -800 100 R 50 50 1 1 W
+X GND B12 400 -200 100 L 50 50 1 1 W
+X CC2 B5 400 -700 100 L 50 50 1 1 P
+X VBUS B9 400 -300 100 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
 # Symbol-library_AO3400A
 #
 DEF Symbol-library_AO3400A Q 0 40 N N 1 L N
@@ -70,35 +147,6 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# Symbol-library_LOGIC-74HC595D(SOIC16)
-#
-DEF Symbol-library_LOGIC-74HC595D(SOIC16) U 0 40 Y Y 1 L N
-F0 "U" -300 601 50 H V L BNN
-F1 "Symbol-library_LOGIC-74HC595D(SOIC16)" 0 600 50 H V L BNN
-F2 "SOIC16-1.27-10X3.9MM" 0 0 50 H I L BNN
-F3 "" 0 0 50 H I L BNN
-F4 "74HC595D" 0 0 50 H I L BNN "MPN"
-DRAW
-S -300 -550 300 550 0 0 16 f
-X QB 1 500 250 200 L 40 40 0 0 T
-X SCL 10 -500 150 200 R 40 40 0 0 I I
-X SCK 11 -500 250 200 R 40 40 0 0 I C
-X RCK 12 -500 -50 200 R 40 40 0 0 I C
-X G 13 -500 -250 200 R 40 40 0 0 I I
-X SER 14 -500 450 200 R 40 40 0 0 I
-X QA 15 500 350 200 L 40 40 0 0 T
-X VCC 16 500 450 200 L 40 40 0 0 W
-X QC 2 500 150 200 L 40 40 0 0 T
-X QD 3 500 50 200 L 40 40 0 0 T
-X QE 4 500 -50 200 L 40 40 0 0 T
-X QF 5 500 -150 200 L 40 40 0 0 T
-X QG 6 500 -250 200 L 40 40 0 0 T
-X QH 7 500 -350 200 L 40 40 0 0 T
-X GND 8 -500 -450 200 R 40 40 0 0 W
-X QH* 9 500 -450 200 L 40 40 0 0 T
-ENDDRAW
-ENDDEF
-#
 # Symbol-library_PinSocket_1x01_Vertical
 #
 DEF Symbol-library_PinSocket_1x01_Vertical J 0 40 Y N 1 F N
@@ -164,11 +212,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 【PBLED】Prayer-Beads-LED-board2-rescue_+3V3-power
+# 【PBLED】Prayer-Beads-LED-board2-rescue_+3V3-power-【PBLED】Prayer-Beads-LED-board2-rescue
 #
-DEF 【PBLED】Prayer-Beads-LED-board2-rescue_+3V3-power #PWR 0 0 Y Y 1 F P
+DEF 【PBLED】Prayer-Beads-LED-board2-rescue_+3V3-power-【PBLED】Prayer-Beads-LED-board2-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "【PBLED】Prayer-Beads-LED-board2-rescue_+3V3-power" 0 140 50 H V C CNN
+F1 "【PBLED】Prayer-Beads-LED-board2-rescue_+3V3-power-【PBLED】Prayer-Beads-LED-board2-rescue" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -179,11 +227,11 @@ X +3V3 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# 【PBLED】Prayer-Beads-LED-board2-rescue_+5V-power
+# 【PBLED】Prayer-Beads-LED-board2-rescue_+5V-power-【PBLED】Prayer-Beads-LED-board2-rescue
 #
-DEF 【PBLED】Prayer-Beads-LED-board2-rescue_+5V-power #PWR 0 0 Y Y 1 F P
+DEF 【PBLED】Prayer-Beads-LED-board2-rescue_+5V-power-【PBLED】Prayer-Beads-LED-board2-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "【PBLED】Prayer-Beads-LED-board2-rescue_+5V-power" 0 140 50 H V C CNN
+F1 "【PBLED】Prayer-Beads-LED-board2-rescue_+5V-power-【PBLED】Prayer-Beads-LED-board2-rescue" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -194,11 +242,11 @@ X +5V 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# 【PBLED】Prayer-Beads-LED-board2-rescue_Conn_01x01-Connector_Generic
+# 【PBLED】Prayer-Beads-LED-board2-rescue_Conn_01x01-Connector_Generic-【PBLED】Prayer-Beads-LED-board2-rescue
 #
-DEF 【PBLED】Prayer-Beads-LED-board2-rescue_Conn_01x01-Connector_Generic J 0 40 Y N 1 F N
+DEF 【PBLED】Prayer-Beads-LED-board2-rescue_Conn_01x01-Connector_Generic-【PBLED】Prayer-Beads-LED-board2-rescue J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "【PBLED】Prayer-Beads-LED-board2-rescue_Conn_01x01-Connector_Generic" 0 -100 50 H V C CNN
+F1 "【PBLED】Prayer-Beads-LED-board2-rescue_Conn_01x01-Connector_Generic-【PBLED】Prayer-Beads-LED-board2-rescue" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -211,11 +259,11 @@ X Pin_1 1 -200 0 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 【PBLED】Prayer-Beads-LED-board2-rescue_Conn_01x15-Connector_Generic
+# 【PBLED】Prayer-Beads-LED-board2-rescue_Conn_01x15-Connector_Generic-【PBLED】Prayer-Beads-LED-board2-rescue
 #
-DEF 【PBLED】Prayer-Beads-LED-board2-rescue_Conn_01x15-Connector_Generic J 0 40 Y N 1 F N
+DEF 【PBLED】Prayer-Beads-LED-board2-rescue_Conn_01x15-Connector_Generic-【PBLED】Prayer-Beads-LED-board2-rescue J 0 40 Y N 1 F N
 F0 "J" 0 800 50 H V C CNN
-F1 "【PBLED】Prayer-Beads-LED-board2-rescue_Conn_01x15-Connector_Generic" 0 -800 50 H V C CNN
+F1 "【PBLED】Prayer-Beads-LED-board2-rescue_Conn_01x15-Connector_Generic-【PBLED】Prayer-Beads-LED-board2-rescue" 0 -800 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -256,11 +304,11 @@ X Pin_9 9 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 【PBLED】Prayer-Beads-LED-board2-rescue_GND-power
+# 【PBLED】Prayer-Beads-LED-board2-rescue_GND-power-【PBLED】Prayer-Beads-LED-board2-rescue
 #
-DEF 【PBLED】Prayer-Beads-LED-board2-rescue_GND-power #PWR 0 0 Y Y 1 F P
+DEF 【PBLED】Prayer-Beads-LED-board2-rescue_GND-power-【PBLED】Prayer-Beads-LED-board2-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "【PBLED】Prayer-Beads-LED-board2-rescue_GND-power" 0 -150 50 H V C CNN
+F1 "【PBLED】Prayer-Beads-LED-board2-rescue_GND-power-【PBLED】Prayer-Beads-LED-board2-rescue" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
