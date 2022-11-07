@@ -13,8 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Label 10550 2500 0    60   ~ 0
-13(SCK)
 Text Label 10550 2200 0    60   ~ 0
 A0
 Text Label 10550 2100 0    60   ~ 0
@@ -31,16 +29,12 @@ Text Label 10550 1600 0    60   ~ 0
 A6
 Text Label 10550 1500 0    60   ~ 0
 A7
-Text Label 10550 2300 0    60   ~ 0
-AREF
 Text Label 10550 1300 0    60   ~ 0
 Reset
 Text Notes 10800 1000 0    60   ~ 0
 Holes
 Text Notes 8500 575  0    60   ~ 0
 Shield for Arduino Nano
-Text Label 10250 950  1    60   ~ 0
-Vin
 Wire Notes Line
 	8475 650  9675 650 
 Wire Notes Line
@@ -142,39 +136,9 @@ Wire Wire Line
 Wire Wire Line
 	10250 1200 10150 1200
 Wire Wire Line
-	10150 1100 10250 1100
-Wire Wire Line
-	10250 1100 10250 950 
-$Comp
-L 【PBLED】Prayer-Beads-LED-board2-rescue:+5V-power-【PBLED】Prayer-Beads-LED-board2-rescue #PWR03
-U 1 1 56D747E8
-P 10350 950
-F 0 "#PWR03" H 10350 800 50  0001 C CNN
-F 1 "+5V" V 10350 1150 28  0000 C CNN
-F 2 "" H 10350 950 50  0000 C CNN
-F 3 "" H 10350 950 50  0000 C CNN
-	1    10350 950 
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
 	10350 950  10350 1400
 Wire Wire Line
 	10350 1400 10150 1400
-$Comp
-L 【PBLED】Prayer-Beads-LED-board2-rescue:+3V3-power-【PBLED】Prayer-Beads-LED-board2-rescue #PWR04
-U 1 1 56D74854
-P 10450 950
-F 0 "#PWR04" H 10450 800 50  0001 C CNN
-F 1 "+3.3V" V 10450 1150 28  0000 C CNN
-F 2 "" H 10450 950 50  0000 C CNN
-F 3 "" H 10450 950 50  0000 C CNN
-	1    10450 950 
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10450 950  10450 2400
-Wire Wire Line
-	10450 2400 10150 2400
 Wire Wire Line
 	10550 1300 10150 1300
 Wire Wire Line
@@ -193,10 +157,6 @@ Wire Wire Line
 	10150 2100 10550 2100
 Wire Wire Line
 	10550 2200 10150 2200
-Wire Wire Line
-	10550 2300 10150 2300
-Wire Wire Line
-	10150 2500 10550 2500
 Wire Notes Line
 	11200 1050 10650 1050
 Wire Notes Line
@@ -2216,14 +2176,6 @@ Text Label 2127 1519 0    60   ~ 0
 6(**)
 Text Label 2127 1419 0    60   ~ 0
 5(**)
-Text Label 2127 1319 0    60   ~ 0
-4
-Text Label 2127 1219 0    60   ~ 0
-3(**)
-Text Label 2127 1119 0    60   ~ 0
-2
-Text Label 2127 919  0    60   ~ 0
-Reset
 Text Label 2127 819  0    60   ~ 0
 0(Rx)
 Text Label 2127 719  0    60   ~ 0
@@ -2236,13 +2188,8 @@ NoConn ~ 2127 1719
 NoConn ~ 2127 1619
 NoConn ~ 2127 1519
 NoConn ~ 2127 1419
-NoConn ~ 2127 1319
-NoConn ~ 2127 1219
-NoConn ~ 2127 1119
-NoConn ~ 2127 919 
 NoConn ~ 2127 819 
 NoConn ~ 2127 719 
-NoConn ~ 2702 594 
 $Comp
 L BAYASHI_Symbol-library:LOGIC-74HC595D(SOIC16) U2
 U 1 1 636EC702
@@ -3079,8 +3026,6 @@ NoConn ~ 1500 1475
 NoConn ~ 650  1175
 NoConn ~ 1500 1275
 NoConn ~ 1500 1375
-Text Label 1800 1075 0    60   ~ 0
-Vin
 Wire Wire Line
 	575  1575 575  750 
 Wire Wire Line
@@ -3256,4 +3201,54 @@ Wire Wire Line
 	8680 5415 8680 5515
 Wire Wire Line
 	8880 5415 8880 5665
+$Comp
+L BAYASHI_Symbol-library:PWR_FLAG #FLG0102
+U 1 1 63771F4D
+P 10850 1625
+F 0 "#FLG0102" H 10850 1700 50  0001 C CNN
+F 1 "PWR_FLAG" H 10850 1798 50  0000 C CNN
+F 2 "" H 10850 1625 50  0001 C CNN
+F 3 "" H 10850 1625 50  0001 C CNN
+	1    10850 1625
+	1    0    0    -1  
+$EndComp
+$Comp
+L BAYASHI_Symbol-library:GND #PWR0102
+U 1 1 63772F7B
+P 10850 2100
+F 0 "#PWR0102" H 10850 1850 50  0001 C CNN
+F 1 "GND" H 10855 1927 50  0000 C CNN
+F 2 "" H 10850 2100 50  0001 C CNN
+F 3 "" H 10850 2100 50  0001 C CNN
+	1    10850 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10850 1625 10850 2100
+NoConn ~ 10150 2500
+NoConn ~ 10150 2300
+$Comp
+L 【PBLED】Prayer-Beads-LED-board2-rescue:+5V-power-【PBLED】Prayer-Beads-LED-board2-rescue #PWR03
+U 1 1 56D747E8
+P 10350 950
+F 0 "#PWR03" H 10350 800 50  0001 C CNN
+F 1 "+5V" V 10350 1150 28  0000 C CNN
+F 2 "" H 10350 950 50  0000 C CNN
+F 3 "" H 10350 950 50  0000 C CNN
+	1    10350 950 
+	1    0    0    -1  
+$EndComp
+NoConn ~ 10150 2400
+$Comp
+L BAYASHI_Symbol-library:+5V #PWR0103
+U 1 1 63A052FA
+P 1800 1075
+F 0 "#PWR0103" H 1800 925 50  0001 C CNN
+F 1 "+5V" H 1815 1248 50  0000 C CNN
+F 2 "" H 1800 1075 50  0001 C CNN
+F 3 "" H 1800 1075 50  0001 C CNN
+	1    1800 1075
+	1    0    0    -1  
+$EndComp
+NoConn ~ 10150 1100
 $EndSCHEMATC

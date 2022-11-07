@@ -3251,4 +3251,15 @@ F 3 "" H 1800 1075 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 10150 1100
+$Comp
+L Symbol-library:GND #PWR?
+U 1 1 636DBAF1
+P 1130 6390
+F 0 "#PWR?" H 1130 6140 50  0001 C CNN
+F 1 "GND" H 1135 6217 50  0000 C CNN
+F 2 "" H 1130 6390 50  0001 C CNN
+F 3 "" H 1130 6390 50  0001 C CNN
+	1    1130 6390
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
